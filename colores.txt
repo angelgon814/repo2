@@ -1,3 +1,7 @@
 rojo
 
 verde
+
+amarillo 
+
+azul
