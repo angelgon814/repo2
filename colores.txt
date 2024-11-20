@@ -9,3 +9,7 @@ azul
 marron
 
 blanco
+
+morado
+
+rosa
