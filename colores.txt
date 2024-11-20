@@ -5,3 +5,7 @@ verde
 amarillo 
 
 azul
+
+marron
+
+blanco
